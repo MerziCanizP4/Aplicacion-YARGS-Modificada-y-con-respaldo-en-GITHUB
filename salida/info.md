@@ -1,6 +1,3 @@
-## Creacion de Informacion
+# Información sobre las Tablas Generadas
 
-***
-Esta carpeta servira para alojar todos los archivos txt correspondientes
-de las tablas que se generen
-***
+Este archivo sirve para alojar todas las tablas creadas por el programa. Aquí se pueden encontrar las diferentes tablas generadas, y sus respectivos archivos se guardan en el directorio de salida.
